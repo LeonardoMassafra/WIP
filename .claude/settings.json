@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "shell": "powershell",
+            "command": "cd 'C:\\Users\\globalgeo\\Desktop\\WIP'; git add .; $ts = Get-Date -Format 'yyyy-MM-dd HH:mm'; if (git status --porcelain) { git commit -m \"Auto-save: aggiornamento skill e script - $ts\" }",
+            "timeout": 30,
+            "statusMessage": "Salvataggio su Git..."
+          }
+        ]
+      }
+    ]
+  }
+}
