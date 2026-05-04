@@ -1,0 +1,48 @@
+LISTA ATTIVITÀ UFFICIALE — CATTURA LA REALTÀ
+===============================================
+
+Questa è la lista delle voci ricorrenti nei preventivi.
+Usare SEMPRE la forma completa qui sotto nei preventivi generati.
+Quando l'utente in chat usa forme abbreviate, mappale alla voce ufficiale.
+
+## RILIEVO (CAMPAGNA)
+- Rilievo con strumentazione GNSS
+- Rilievo con stazione totale
+- Rilievo con stazione totale e GNSS
+- Rilievo laser scanner
+- Rilievo fotogrammetrico da drone
+- Riconfinamento
+
+## RESTITUZIONI GRAFICHE
+- Restituzione di nuvola di punti in formato idoneo per essere importato nel CAD
+- Restituzione di ortofoto
+- Planimetria generale
+- Planimetria generale con rappresentazione a piano quotato
+- Planimetria generale con rappresentazione a curve di livello
+- Planimetria generale con rappresentazione a piano quotato e curve di livello
+- Sezioni
+
+## PRATICHE CATASTALI
+- Docfa per variazione catastale
+- Docfa per nuova costruzione
+- Tipo mappale
+- Tipo mappale con stralcio di corte
+- Tipo di Frazionamento
+
+## MAPPATURA ALIAS → VOCE UFFICIALE
+(per l'interpretazione del testo libero in chat)
+
+- "gnss", "gps"            → Rilievo con strumentazione GNSS
+- "stazione totale"        → Rilievo con stazione totale
+- "laser scanner", "laser" → Rilievo laser scanner
+- "drone", "uav"           → Rilievo fotogrammetrico da drone
+- "nuvola", "nuvola punti", "nuvola di punti", "cad"
+                           → Restituzione di nuvola di punti in formato idoneo per essere importato nel CAD
+- "ortofoto"               → Restituzione di ortofoto
+- "planimetria"            → Planimetria generale (chiedi quotato/curve di livello se ambiguo)
+- "sezioni"                → Sezioni
+- "docfa"                  → chiedi: variazione o nuova costruzione?
+- "tipo mappale"           → Tipo mappale (chiedi se con stralcio di corte)
+- "frazionamento", "tipo di frazionamento"
+                           → Tipo di Frazionamento
+- "riconfinamento"         → Riconfinamento

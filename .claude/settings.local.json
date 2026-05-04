@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python \"C:\\\\Users\\\\globalgeo\\\\Desktop\\\\WIP\\\\.claude\\\\skills\\\\pf-schede-downloader\\\\scripts\\\\download_from_kml.py\" \"C:\\\\Users\\\\globalgeo\\\\Desktop\\\\WIP\\\\01_PF DA CONVERTIRE\\\\pf_p206.kml\" --output \"C:\\\\Users\\\\globalgeo\\\\Desktop\\\\WIP\\\\01_PF DA CONVERTIRE\\\\schede\" --timeout 25 2>&1)"
+    ]
+  }
+}

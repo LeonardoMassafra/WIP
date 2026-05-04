@@ -1,0 +1,24 @@
+# Output temporanei e file di lavoro
+01_PF DA CONVERTIRE/
+*.kml
+*.pdf
+*.png
+
+# File Excel compilati con dati personali
+*Modulo_Preventivo*.xlsx
+*sopralluogo*.xlsx
+
+# Dati estratti con info sensibili
+**/OUTPUTS/
+**/PROJECTS/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
